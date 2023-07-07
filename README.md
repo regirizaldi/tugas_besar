@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Pomodoro timer - time management
 
 Ini adalah Tugas besar Mata kuliah Mobile Programming dengan menggunakan framework flutter dan menggunakan database lokal hive flutter
@@ -13,6 +13,3 @@ Ini adalah Tugas besar Mata kuliah Mobile Programming dengan menggunakan framewo
 - [Syncfusion flutter gauges](https://pub.dev/packages/syncfusion_flutter_gauges)
 - [Just audio](https://pub.dev/packages/just_audio)
 - [Flutter local notifications](https://pub.dev/packages/flutter_local_notifications)
-
-
->>>>>>> tugasbesar/main
